@@ -1,0 +1,12 @@
+{
+    "name": "bot/students",
+    "authors": [
+        {
+            "name": "Ignaat Boltov",
+            "email": "uncelpeter@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
